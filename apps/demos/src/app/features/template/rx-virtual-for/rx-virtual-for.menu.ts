@@ -4,6 +4,10 @@ export const RX_VIRTUAL_FOR_MENU_ITEMS = [
     link: 'showcase',
   },
   {
+    label: 'Bug',
+    link: 'bug',
+  },
+  {
     label: 'Custom Scrollcontainer',
     link: 'custom-scroll',
   },

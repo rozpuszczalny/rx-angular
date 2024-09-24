@@ -2,6 +2,17 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [17.3.1](https://github.com/rozpuszczalny/rx-angular/compare/template@17.3.0...template@17.3.1) (2024-09-24)
+
+
+### Bug Fixes
+
+* **template:** properly calc sizes when resizeobserver adjust viewport ([#1759](https://github.com/rozpuszczalny/rx-angular/issues/1759)) ([90b6f7c](https://github.com/rozpuszczalny/rx-angular/commit/90b6f7c1ce7205f3868b26e9268e83cdb6e49347)), closes [#1746](https://github.com/rozpuszczalny/rx-angular/issues/1746)
+* **template:** properly calculate range & anchor when values reset ([38ce677](https://github.com/rozpuszczalny/rx-angular/commit/38ce6775c3f0b17241df35e7ac2aba883dfd0516)), closes [#1744](https://github.com/rozpuszczalny/rx-angular/issues/1744)
+* **template:** virtual-for: properly calculate stable state ([112a299](https://github.com/rozpuszczalny/rx-angular/commit/112a299c1d9d74ac6dc72f8f8bcf6b3671761ec7))
+
+
+
 # [17.3.0](https://github.com/rx-angular/rx-angular/compare/template@17.2.0...template@17.3.0) (2024-05-23)
 
 
